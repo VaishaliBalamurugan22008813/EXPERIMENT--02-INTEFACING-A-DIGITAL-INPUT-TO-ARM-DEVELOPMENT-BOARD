@@ -62,7 +62,6 @@ Register No:212222230164
 
  ![Screenshot 2024-03-19 140845](https://github.com/premalatha-sureshbabu/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120620842/6488bb84-9626-48a1-b369-e6e87a228904)
 
- ![Screenshot 2024-03-19 140931](https://github.com/premalatha-sureshbabu/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120620842/de53a386-26a6-4310-9c0a-f2d65e7df74d)
 
 
 ## Result :
